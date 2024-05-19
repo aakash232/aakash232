@@ -1,3 +1,5 @@
+<div style="border:1px solid black;">
+  
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -14,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!--- stats & Trophy (start) -->
+<!--- stats (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -34,7 +36,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aakash232&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aakash232&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -100,5 +102,8 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+</div>
 
 
