@@ -94,8 +94,8 @@
 
 <!--profile visit count-->
 <div align="center">
-  
- [![](https://visitcount.itsvg.in/api?id=aakash232&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Faakash232&count_bg=%23D133EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
  
 </div>
 
