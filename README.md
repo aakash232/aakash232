@@ -23,7 +23,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats-git-master-aakashs-projects-22fd0f65.vercel.app/api?username=aakash232&theme=radical&show_icons=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img  align="center"  src="https://github-readme-stats-git-master-aakashs-projects-22fd0f65.vercel.app/api?username=aakash232&theme=radical&show_icons=true&all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
   <br></br>
 </td>
 
