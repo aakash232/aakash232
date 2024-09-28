@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,androidstudio,docker,maven,gradle,git,github,figma,cypress,ps&perline=20" />
+    <img src="https://skillicons.dev/icons?i=aws,androidstudio,docker,maven,gradle,git,github,figma,ai,cypress,ps&perline=20" />
   </a>
 </p>
 
