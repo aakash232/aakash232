@@ -28,7 +28,7 @@
 </td>
 
 <td width="50%" align="center">
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=aakash232&theme=radical&hide_border=false" /> 
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-umber-eight.vercel.app/?user=aakash232&theme=radical&hide_border=false" /> 
 </tr>
 </table>
 <!--- stats (end) -->
