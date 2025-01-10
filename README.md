@@ -28,11 +28,7 @@
 </td>
 
 <td width="50%" align="center">
-   <a href="https://github-readme-streak-stats-5qe43bfp1-aakashs-projects-22fd0f65.vercel.app?user=aakash232&theme=radical">
-      <img src="https://github-readme-streak-stats-5qe43bfp1-aakashs-projects-22fd0f65.vercel.app?user=aakash232&theme=radical" alt="GitHub Streak">
-   </a>
-</td>
-
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=aakash232&theme=radical&hide_border=false" /> 
 </tr>
 </table>
 <!--- stats (end) -->
@@ -109,5 +105,3 @@
 
 
 </div>
-
-
