@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,npm,nodejs,react,express,mysql,postgres,redis,dynamodb,firebase,graphql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,npm,nodejs,react,nestjs,express,mysql,postgres,redis,dynamodb,terraform,firebase,graphql&perline=14" />
   </a>
 </p>
 
