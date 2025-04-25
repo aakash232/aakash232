@@ -35,10 +35,8 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <img src="https://github.com/aakash232/github-profile-trophy/blob/master/assets/trophy.svg" width="84%" />
+  <img src="https://github.com/aakash232/github-profile-trophy/blob/master/assets/trophy.svg" width="80%" />
 </div>
-
-
 <!--- trophy (end) -->
 
 
