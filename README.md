@@ -35,10 +35,10 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=aakash232&theme=radical&row=1&column=5&margin-h=15&margin-w=5&no-bg=false&title=-Followers,-Stars,-Issues" alt="TROPHY" />
-    </a>
+  <img src="https://github.com/aakash232/github-profile-trophy/blob/master/assets/trophy.svg" width="84%" />
 </div>
+
+
 <!--- trophy (end) -->
 
 
