@@ -7,7 +7,7 @@
 <h1 align="center"><b>Hi , I'm Aakash Tyagi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=fe438e&center=true&random=false&width=435&lines=Senior+Software+Engineer+at+Kickdrum;Full+Stack+Developer+%3A+Android+%26+Web;Google+Summer+of+Code+Contributor;Active+Learner+%26+Researcher;Looking+forward+to+new+opportunities" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=fe438e&center=true&random=false&width=435&lines=Senior+Software+Engineer+at+Kickdrum;Full+Stack+%26+AI+Engineering;Google+Summer+of+Code+Contributor;Active+Learner+%26+Researcher;Looking+forward+to+new+opportunities" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> A techie interested enough in computers to learn coding! <br>  I wish to grow in fields that will genuinely shape society and the environment I'll work in, in a positive uprising manner. </p>
