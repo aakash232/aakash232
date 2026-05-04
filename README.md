@@ -35,7 +35,7 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <img src="https://github.com/aakash232/github-profile-trophy/blob/master/assets/trophy.svg" width="80%" />
+  <img src="https://github-profile-trophy-ten-vert.vercel.app/?username=aakash232&theme=radical&row=2&column=5" width="80%" />
 </div>
 <!--- trophy (end) -->
 
