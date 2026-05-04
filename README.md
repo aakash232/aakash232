@@ -93,7 +93,7 @@
 <!--profile visit count-->
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.github.com%2Faakash232&count_bg=%23D133EF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fhitscounter.dev%2Fapi%2Fhit%3Furl%3Dhttps%253A%252F%252Fgithub.com%252Faakash232%252F%26label%3D%26icon%3Dgithub%26color%3D%2523198754%26message%3D%26style%3Dflat%26tz%3DAsia%252FCalcutta&label=Visitors&icon=github&color=%2375b798&message=&style=for-the-badge&tz=Asia%2FCalcutta)
  
 </div>
 
